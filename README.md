@@ -1,10 +1,10 @@
 # i18n Ally Plugin
 
-Plugin for i18n intellisense in phpstorm and webstorm & others. with 2024.1.x versions.
+Plugin for i18n intellisense in phpstorm and webstorm & others. with 2024.2.x versions.
 
 ## Instructions
 1. Download the plugin:
-   **jetbrains-ide-plugin_1.4.2.3_support 2024.1.x.zip**
+   **jetbrains-ide-plugin_1.4.2.4_support 2024.2.x.zip**
 
 2. Install the plugin manually or from local disk.
    ![Install plugin](images/install_plugin.jpg)
